@@ -13,3 +13,5 @@ cv2 -- 4.5.2
 PIL -- 9.0.1
 Numpy -- 1.20.3
 Matplotlib -- 3.5.1
+
+You are free to use any of these implementations but please give credit to this repository and the authors of external code used.
